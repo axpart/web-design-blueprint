@@ -1,0 +1,22 @@
+/*this is a dynamic stylesheet that supports CSS crush Systax*/
+/*****************************************************************************************************
+ * created by Anam Ahmed
+ * Anam Ahmed
+ * anam.ahmed.a@gmail.com
+ * 
+
+/*****************************************************************************************************
+use this systax for including CSS3 pie.
+ .myElement {
+ 	[properties]
+ -pie-background:linear-gradient(gray,black);  ----for linear gradien
+    behavior: url(PIE.php);
+}
+ ******************************************************************************************************/
+/*
+body{
+ 	font-family:Arial, Helvetica, sans-serif;
+}  /**/
+/******************************************************************************************************/
+
+
